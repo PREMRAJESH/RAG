@@ -32,7 +32,7 @@ The project is divided into two main components:
 1. **Document Retrieval**: This module retrieves relevant documents based on a user query, leveraging a vector store like **Astra DB**.
 2. **Generative Response**: The retrieved documents are passed to a Large Language Model (LLM) via **Langflow**, which generates a coherent and informative answer.
 
-![RAG Architecture](path-to-architecture-diagram.png)
+![RAG Architecture](Data/img.png)
 
 ---
 
